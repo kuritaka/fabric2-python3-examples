@@ -1,0 +1,2 @@
+2020-06-09 01:24:51 stdin-null /usr/local/bin/fab -l
+2020-06-09 01:25:05 stdin-null /usr/local/bin/fab -H 192.168.0.22 test
